@@ -1,6 +1,6 @@
 Olá, meu nome é Leonardo 👋
 
-- 🖌 Trabalhando com design;
+- 🖌 Desenvolvedor Web;
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas;
 - 🌱 Estudando a área de front-end;
 
