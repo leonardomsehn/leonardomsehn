@@ -1,8 +1,9 @@
-Olá, meu nome é Leonardo 👋
+Hello, my name is Leonardo 👋
 
-- 🖌 Desenvolvedor Web;
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas;
-- 🌱 Estudando a área de front-end;
+- 🖌 Web Developer;
+- 🔭 Studying Systems Analysis and Development;
+- 🌱 Studying Javascript, React and Next;
+
 
 ## Github Stats:
 
