@@ -1,4 +1,4 @@
-## Hello, my name is Leonardo 👋
+## Oi, meu nome é Leonardo 👋
 
 - 🖌 Desenvolvedor Frontend;
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas;
