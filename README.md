@@ -1,8 +1,8 @@
 ## Oi, meu nome é Leonardo 👋
 
-- 🖌 Desenvolvedor Frontend;
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas;
-- 🌱 Aprendendo React;
+- 🖌  Desenvolvedor Fullstack
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando C# e .NET
 
 
 ## Github Stats:
@@ -15,6 +15,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Git" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.github.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
