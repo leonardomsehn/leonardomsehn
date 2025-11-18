@@ -7,7 +7,7 @@
 
 ## Github Stats:
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomsehn&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardomsehn&theme=gotham&hide_border=false">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomsehn&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 
 ## Techs and Tools:
 <div align="center">
