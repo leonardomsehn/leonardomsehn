@@ -2,7 +2,7 @@
 
 - 🖌  Desenvolvedor Fullstack
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando C# e .NET
+- 🌱 Estudando Next e Python
 
 
 ## Github Stats:
